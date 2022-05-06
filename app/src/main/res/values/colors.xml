@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#48bb78</color>
+    <color name="greenLight">#9ae6b4</color>
+    <color name="colorPrimaryDark">#27ae60</color>
+    <color name="colorAccent">#ffbd2d</color>
+    <color name="colorAccent2">#FFAA00</color>
+    <color name="dark_yellow">#79C39226</color>
+    <color name="steps_title_background">#FFF5E0</color>
+    <color name="transparent">#00000000</color>
+    <color name="steps_dash">#FFAA00</color>
+    <color name="black">#1d1d1f</color>
+    <color name="textash">#818181</color>
+    <color name="textgray">#818181</color>
+    <color name="colorBlue">#2F80ED</color>
+    <color name="colorAccentLight">#FFF5E0</color>
+    <color name="grayLight">#F6F6F6</color>
+    <color name="grayShadow">#4FF1EEEE</color>
+    <color name="gray">#bdbdbd</color>
+    <color name="grayLil">#AFAFAF</color>
+    <color name="white">#fff</color>
+    <color name="off_white">#f9f9f9</color>
+    <color name="qr_square">#FFFFFFFF</color>
+    <color name="semitransparent">#45000000</color>
+    <color name="red_700">#FF5722</color>
+    <color name="red_500">#FF4444</color>
+    <color name="purple">#d6bcfa</color>
+    <color name="line">#C8C8C8</color>
+    <color name="greyDark">#818181</color>
+    <color name="greyDarkMain">#818181</color>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@color/white"
+        />
+
+    <item
+        android:gravity="center"
+        android:height="60dp"
+        android:width="60dp"
+        android:drawable="@drawable/ic_logo"/>
+
+    <item android:bottom="80dp"
+        android:gravity="center_horizontal|bottom"
+        android:height="17dp"
+        android:width="70dp"
+        android:drawable="@drawable/logistix"
+        >
+        <bitmap/>
+    </item>
+
+</layer-list>

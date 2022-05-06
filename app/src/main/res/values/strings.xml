@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Logistix Business</string>
+    <string name="title_activity_maps">Logistix</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Enter your email address</string>
+    <string name="prompt_password">Enter your password</string>
+    <string name="prompt_alias">Enter company\'s alias</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="history">HISTORY</string>
+    <string name="time_estimated">%s Estimated</string>
+    <string name="name_recipient">Amman Abod</string>
+    <string name="address_of_recipient">212, Ilinois Crescent, Surulere, Lagos State.</string>
+    <string name="recipient_number">0902345553</string>
+    <string name="pickup_location">Pickup: %s</string>
+    <string name="your_location">%s</string>
+    <string name="destination">%s</string>
+    <string name="networkMessage">No Internet, Please turn on</string>
+    <string name="steps">Steps</string>
+    <string name="end_ride">End Delivery</string>
+    <string name="pick_up">Pick Parcel</string>
+    <string name="get_directions">Get Directions</string>
+    <string name="parcel_name">Yellow Basket</string>
+    <string name="on_delivery">on Delivery</string>
+    <string name="pay">Pay</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="address_of_pickup">CBN Estate 2, Satellite Town, Lagos</string>
+    <string name="pick_parcel">Pick Parcel</string>
+    <string name="end_delivery">End Delivery</string>
+    <string name="hey">Hey %s,</string>
+    <string name="share">Share</string>
+    <string name="rate">Rate</string>
+    <string name="pickup_contact">Pickup Contact</string>
+    <string name="delivery_contact">Delivery Contact</string>
+    <string name="parcels_on_shelf">You have %s parcels on your shelf.</string>
+    <string name="delivery_price">Pay N2500 on Delivery</string>
+    <string name="time_away">%s away from destination</string>
+    <string name="view_in_map">View in Map</string>
+    <string name="logo_text">logo</string>
+    <string name="companys_website">Company\'s Website</string>
+    <string name="autofil_email">\@.com</string>
+    <string name="password">Password</string>
+    <string name="logistix_com_ng">.logistix.com.ng</string>
+    <string name="email">Email</string>
+    <string name="can_t_scan_enter_track_id_here">Can\'t scan? Enter Track Id Here</string>
+    <string name="map">map</string>
+    <string name="submit">Submit</string>
+    <string name="logistix">Logistix</string>
+    <string name="shipments">Shipments</string>
+    <string name="home">Home</string>
+    <string name="more">More</string>
+
+    <string-array name="Payment_type">
+        <item> Pay On PickUp</item>
+        <item> Pay On Delivery</item>
+    </string-array>
+
+    <string-array name="Parcel_owner">
+        <item> Pick Up</item>
+        <item> Delivery / Receiver</item>
+        <item> Neither</item>
+    </string-array>
+</resources>
